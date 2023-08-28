@@ -41,7 +41,7 @@ EscolhaPoli gerar = new EscolhaPoli();
         setTitle("Treinamento Derivada");
         setResizable(false);
 
-        lblDerivada.setFont(new java.awt.Font("Microsoft YaHei UI Light", 0, 18)); // NOI18N
+        lblDerivada.setFont(new java.awt.Font("Microsoft YaHei UI Light", 0, 16)); // NOI18N
         lblDerivada.setText("text");
 
         javax.swing.GroupLayout pnpDerivLayout = new javax.swing.GroupLayout(pnpDeriv);
@@ -64,7 +64,7 @@ EscolhaPoli gerar = new EscolhaPoli();
         jLabel1.setFont(new java.awt.Font("Tw Cen MT Condensed Extra Bold", 0, 24)); // NOI18N
         jLabel1.setText("Clique no botão para iniciar o treinamento");
 
-        lblEquacao.setFont(new java.awt.Font("Microsoft JhengHei UI Light", 0, 18)); // NOI18N
+        lblEquacao.setFont(new java.awt.Font("Microsoft JhengHei UI Light", 0, 16)); // NOI18N
         lblEquacao.setText("equ");
 
         javax.swing.GroupLayout pnpEquaLayout = new javax.swing.GroupLayout(pnpEqua);
